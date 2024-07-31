@@ -2,7 +2,7 @@ const productos = [
     {
       id: 1,
       nombre: "Alquiler de volquetes",
-      descripcion: "",
+      descripcion: "Contenedores de 5m3 para limpieza. Contratación de 4 días.",
       precio: 60000,
       categoria: "serviciosdealquiler",
       stock: 5,
@@ -11,7 +11,7 @@ const productos = [
     {
       id: 2,
       nombre: "Alquiler de maquinaria vial",
-      descripcion: "",
+      descripcion: "Retroexcavadoras, minicargadoras, con o sin servicio de alquiler de camión volcador.",
       precio: 100000,
       categoria: "serviciosdealquiler",
       stock: 3,
@@ -20,7 +20,7 @@ const productos = [
     {
         id: 3,
         nombre: "Tierra fertilizada",
-        descripcion: "",
+        descripcion: "Tierra negra fertilizada mezclada con compost.",
         precio: 50000,
         categoria: "aridos",
         stock: 6,
@@ -29,7 +29,7 @@ const productos = [
       {
         id: 4,
         nombre: "Tierra negra fina",
-        descripcion: "",
+        descripcion: "Tierra negra fina ideal para parques.",
         precio: 30000,
         categoria: "aridos",
         stock: 8,
@@ -38,7 +38,7 @@ const productos = [
       {
         id: 5,
         nombre: "Tosca",
-        descripcion: "",
+        descripcion: "Tierra negra fina mezclada con cascotes",
         precio: 40000,
         categoria: "aridos",
         stock: 10,
@@ -47,7 +47,7 @@ const productos = [
       {
         id: 6,
         nombre: "Podas, desmonte",
-        descripcion: "",
+        descripcion: "Poda de arboleda y extracción de raíz.",
         precio: 60000,
         categoria: "movimientodesuelo",
         stock: 3,
@@ -56,7 +56,7 @@ const productos = [
       {
         id: 7,
         nombre: "Demoliciones",
-        descripcion: "",
+        descripcion: "Demolición con o sin retiro de escombros.",
         precio: 200000,
         categoria: "movimientodesuelo",
         stock: 4,
@@ -65,7 +65,7 @@ const productos = [
       {
         id: 8,
         nombre: "Plateas",
-        descripcion: "",
+        descripcion: "Excavacación de suelo vegetal (20cm), relleno con tosca, compactación y nivelación.",
         precio: 300000,
         categoria: "movimientodesuelo",
         stock: 1,
@@ -74,7 +74,7 @@ const productos = [
       {
         id: 9,
         nombre: "Excavaciones",
-        descripcion: "",
+        descripcion: "Excavación para piletas, sótanos, bases, plateas, zanjas y pilotines.",
         precio: 250000,
         categoria: "movimientodesuelo",
         stock: 2,
