@@ -1,0 +1,13 @@
+.bienvenidaContainer{
+    font-size: 3rem;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    background-color: #383838;
+}
+
+.listaProductos{
+    display: flex;
+    flex-wrap: wrap;
+}
